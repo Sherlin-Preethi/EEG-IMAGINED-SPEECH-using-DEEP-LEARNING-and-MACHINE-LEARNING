@@ -1,4 +1,4 @@
-# EEG-IMAGINED-SPEECH-using-DEEP-LEARNING-and-MACHINE-LEARNING
+# ML-and-DL-for-IMAGINED-SPEECH-EEG
 In this repositary, i have included the ml and dl code which i used to process eeg dataset for imagined speech and get accuracy for various methods
 
 EEG signals are collected and stored as datasets with help of appropriate headsets containing channels.
